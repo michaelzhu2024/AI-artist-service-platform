@@ -4,9 +4,9 @@ description: AI画师 在线使用
 
 # ✨ 开始使用与资费标准
 
-<mark style="color:blue;">**AI画师使用地址1：**</mark>[**https://ai.zyz.asia**](https://ai.zyz.asia/)**（仅限内测用户，1-2周轮换密码）**
+<mark style="color:blue;">**AI画师使用地址1：**</mark>[**https://ai.zyz.asia**](https://ai.zyz.asia/)
 
-<mark style="color:blue;">**AI画师使用地址2：**</mark>[<mark style="color:blue;">**https://ai.michaelzyz.asia**</mark>](https://ai.michaelzyz.asia/#/chat) **（仅限付费用户）**
+<mark style="color:blue;">**AI画师使用地址2：**</mark>[<mark style="color:blue;">**https://ai.michaelzyz.asia**</mark>](https://ai.michaelzyz.asia/#/chat) **（备用）**
 
 {% hint style="info" %}
 本网站开启密码访问，请联系客服获取内测密码或购买服务！
