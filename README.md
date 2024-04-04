@@ -5,7 +5,7 @@ description: >-
 
 # 😀 项目介绍
 
-<figure><img src=".gitbook/assets/QQ拼音截图20240322203130.png" alt=""><figcaption><p>演示图</p></figcaption></figure>
+<figure><img src=".gitbook/assets/模版1.png" alt="" width="563"><figcaption><p>对话截图</p></figcaption></figure>
 
 ## AI画师网站支持功能：
 
