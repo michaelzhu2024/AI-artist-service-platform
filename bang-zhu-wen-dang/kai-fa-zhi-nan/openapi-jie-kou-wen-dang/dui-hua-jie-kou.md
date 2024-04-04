@@ -44,8 +44,8 @@ curl --location --request POST 'https://api.fastgpt.in/api/v1/chat/completions' 
 <pre class="language-ruby"><code class="lang-ruby">
 1.headers.Authorization: Bearer {{apikey}}
 <strong>2.chatId: string | undefined 。
-</strong> 为 undefined 时（不传入），不使用 FastGpt 提供的上下文功能，完全通过传入的 messages 构建上下文。 不会将你的记录存储到数据库中，你也无法在记录汇总中查阅到。
- 为非空字符串时，意味着使用 chatId 进行对话，自动从 FastGpt 数据库取历史记录，并使用 messages 数组最后一个内容作为用户问题。请自行确保 chatId 唯一，长度小于250，通常可以是自己系统的对话框ID。
+</strong> 为 undefined 时（不传入），不使用 AI画师 提供的上下文功能，完全通过传入的 messages 构建上下文。 不会将你的记录存储到数据库中，你也无法在记录汇总中查阅到。
+ 为非空字符串时，意味着使用 chatId 进行对话，自动从 AI画师 数据库取历史记录，并使用 messages 数组最后一个内容作为用户问题。请自行确保 chatId 唯一，长度小于250，通常可以是自己系统的对话框ID。
 3.messages: 结构与 GPT接口 chat模式一致。
 4.detail: 是否返回中间值（模块状态，响应的完整结果等），stream模式下会通过event进行区分，非stream模式结果保存在responseData中。
 <strong>5.variables: 模块变量，一个对象，会替换模块中，输入框内容里的{{key}}
