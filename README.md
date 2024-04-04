@@ -7,10 +7,12 @@ description: >-
 
 <figure><img src=".gitbook/assets/QQ拼音截图20240322203130.png" alt=""><figcaption><p>演示图</p></figcaption></figure>
 
-* [x] 自动提示词优化
-* [x] 接入OpenAI官方接口
-* [x] 对话式生图
+* [x] 自动提示词优化（使用ChatGPT3.5）
+* [x] 无限制的高清大图生成
 * [x] 隐私保护（图片使用localforage实现本地存储）
 * [x] 开发者服务（OpenAPI接口或HTML接入）
 * [x] 支持自定义api key、base\_url
+* [x] 使用美国安全服务器+Let's Encrypt证书加密
+
+
 
