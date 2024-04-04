@@ -4,13 +4,22 @@ description: 无论是资费咨询还是技术支持，我们都竭尽全力为�
 
 # 🙋‍♂️ 人工客服
 
-{% hint style="info" %}
-为了能够有效帮助到更多用户，我们建议您在寻求人工客服前先仔细阅读帮助文档，感谢您的理解与配合！
+{% hint style="warning" %}
+为了我们能够帮助到更多用户，建议您在寻求人工客服前先仔细阅读帮助文档，感谢您的理解与配合！
 {% endhint %}
 
 {% content-ref url="bang-zhu-wen-dang/" %}
 [bang-zhu-wen-dang](bang-zhu-wen-dang/)
 {% endcontent-ref %}
+
+{% hint style="success" %}
+我们100％提供以下服务：
+
+1. AI画师续费与退款核实
+2. AI画师API KEY获取与更改
+3. 少量的AI画师开发指导
+4. 漏洞报告
+{% endhint %}
 
 * 统一客服热线：（+86）13755021245（微信同号）
 * 客服邮箱1：service@michaelzyz.asia
