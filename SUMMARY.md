@@ -12,6 +12,7 @@
     * [💼 使用案例](bang-zhu-wen-dang/kai-fa-zhi-nan/shi-yong-an-li/README.md)
       * [💬 对接第三方 GPT 应用](bang-zhu-wen-dang/kai-fa-zhi-nan/shi-yong-an-li/dui-jie-di-san-fang-gpt-ying-yong.md)
       * [☁️ 接入微信和企业微信](bang-zhu-wen-dang/kai-fa-zhi-nan/shi-yong-an-li/jie-ru-wei-xin-he-qi-ye-wei-xin.md)
+      * [📈 接入飞书(社区文章)](bang-zhu-wen-dang/kai-fa-zhi-nan/shi-yong-an-li/jie-ru-fei-shu-she-qu-wen-zhang.md)
   * [🎁 增值服务](bang-zhu-wen-dang/zeng-zhi-fu-wu.md)
 * [🤝 其他](qi-ta/README.md)
   * [📖 平台协议](qi-ta/ping-tai-xie-yi.md)
