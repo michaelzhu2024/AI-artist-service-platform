@@ -18,7 +18,7 @@ description: AI画师 在线使用
 
 **一个半月：14元**
 
-{% hint style="info" %}
+{% hint style="danger" %}
 严禁多人共享使用！严禁反向破解！对话速率：3次提问/分钟！
 {% endhint %}
 
@@ -28,8 +28,8 @@ description: AI画师 在线使用
 [ren-gong-ke-fu.md](ren-gong-ke-fu.md)
 {% endcontent-ref %}
 
-## 不会操作？看看帮助文档吧！
+## 不会操作？看看疑难解答吧！
 
-{% content-ref url="bang-zhu-wen-dang/" %}
-[bang-zhu-wen-dang](bang-zhu-wen-dang/)
+{% content-ref url="bang-zhu-wen-dang/gao-pin-wen-ti-jie-da.md" %}
+[gao-pin-wen-ti-jie-da.md](bang-zhu-wen-dang/gao-pin-wen-ti-jie-da.md)
 {% endcontent-ref %}
