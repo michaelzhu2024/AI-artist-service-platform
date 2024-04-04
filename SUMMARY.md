@@ -17,3 +17,4 @@
 * [🤝 使用协议](qi-ta/README.md)
   * [📗 服务协议](shi-yong-xie-yi/fu-wu-xie-yi.md)
   * [📕 隐私政策](shi-yong-xie-yi/yin-si-zheng-ce.md)
+  * [📙 下载权益](shi-yong-xie-yi/xia-zai-quan-yi.md)
