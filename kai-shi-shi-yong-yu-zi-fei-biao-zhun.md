@@ -27,3 +27,9 @@ description: AI画师 在线使用
 {% content-ref url="ren-gong-ke-fu.md" %}
 [ren-gong-ke-fu.md](ren-gong-ke-fu.md)
 {% endcontent-ref %}
+
+## 不会操作？看看帮助文档吧！
+
+{% content-ref url="bang-zhu-wen-dang/" %}
+[bang-zhu-wen-dang](bang-zhu-wen-dang/)
+{% endcontent-ref %}
