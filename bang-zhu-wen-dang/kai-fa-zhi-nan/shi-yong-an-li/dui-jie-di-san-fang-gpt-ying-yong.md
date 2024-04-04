@@ -8,7 +8,7 @@ description: 通过与 OpenAI 兼容的 API 对接第三方应用
 
 请联系客服申请API KEY。
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 请妥善保存好您的密钥，后台一旦发现违规使用行为将进行安全风控！
 {% endhint %}
 

@@ -8,8 +8,12 @@ description: AI画师 接入微信和企业微信
 
 请联系客服获取API KEY。
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 请妥善保存好您的密钥，后台一旦发现违规使用行为将进行安全风控！
+{% endhint %}
+
+{% hint style="warning" %}
+本教程包含第三方服务，AI画师不保证其可用性。
 {% endhint %}
 
 **配置微秘书**&#x20;
