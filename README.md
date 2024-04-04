@@ -9,6 +9,10 @@ description: >-
 
 ## AI画师网站支持功能：
 
+{% hint style="success" %}
+好消息，我们的网站已是最新版本（2.16.6）！
+{% endhint %}
+
 * [x] 无限制的高清大图生成
 * [x] 自动提示词优化（使用ChatGPT3.5）
 * [x] 对话隐私保护（图片使用localforage实现本地存储）

@@ -8,15 +8,23 @@ description: 通过与 OpenAI 兼容的 API 对接第三方应用
 
 请联系客服申请API KEY。
 
+{% content-ref url="../../../ren-gong-ke-fu.md" %}
+[ren-gong-ke-fu.md](../../../ren-gong-ke-fu.md)
+{% endcontent-ref %}
+
 {% hint style="danger" %}
 请妥善保存好您的密钥，后台一旦发现违规使用行为将进行安全风控！
+{% endhint %}
+
+{% hint style="warning" %}
+本教程包含第三方服务，AI画师不保证其可用性。
 {% endhint %}
 
 **替换三方应用的变量**
 
 {% hint style="info" %}
 ```
-OPENAI_API_BASE_URL: https://api.fastgpt.in/api (改成自己部署的域名)
+OPENAI_API_BASE_URL: https://api.fastgpt.in/api
 OPENAI_API_KEY = 上一步获取到的秘钥
 ```
 {% endhint %}

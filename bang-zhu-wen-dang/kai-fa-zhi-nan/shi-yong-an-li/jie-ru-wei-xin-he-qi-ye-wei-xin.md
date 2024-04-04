@@ -8,6 +8,10 @@ description: AI画师 接入微信和企业微信
 
 请联系客服获取API KEY。
 
+{% content-ref url="../../../ren-gong-ke-fu.md" %}
+[ren-gong-ke-fu.md](../../../ren-gong-ke-fu.md)
+{% endcontent-ref %}
+
 {% hint style="danger" %}
 请妥善保存好您的密钥，后台一旦发现违规使用行为将进行安全风控！
 {% endhint %}
