@@ -20,6 +20,10 @@ description: 结合用户的高频提问，你最想知道的都在这里！
 
 答：请参见“《下载权益》文件”。
 
+{% content-ref url="../shi-yong-xie-yi/xia-zai-quan-yi.md" %}
+[xia-zai-quan-yi.md](../shi-yong-xie-yi/xia-zai-quan-yi.md)
+{% endcontent-ref %}
+
 **Q4：AI回复有误，图片生成有问题，如何反馈？**
 
 答：欢迎您截图并发送给我们的工作人员，帮助我们更好完善平台！
