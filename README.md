@@ -10,11 +10,11 @@ description: >-
 ## AI画师网站支持功能：
 
 {% hint style="success" %}
-好消息，我们的网站已是最新版本（2.16.6）！
+好消息，我们的站点受到cloudflare的保护！
 
-* 🐞 修复：手机端不支持 `sref` `cref`
-* 😄 新增：`sref` `cref` 上传至discord做为图床
-* 😄 新增：新模型 `suno-v3`
+* [x] 浏览器完整性检查
+* [x] 自动程序攻击模式
+* [x] 加快网站的访问速度
 {% endhint %}
 
 * [x] 无限制的高清大图生成
