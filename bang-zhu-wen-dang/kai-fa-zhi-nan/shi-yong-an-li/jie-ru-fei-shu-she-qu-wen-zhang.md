@@ -26,9 +26,9 @@ AI画师 集成**重点参数：**
 
 {% hint style="info" %}
 ```
-#上一步FastGPT的OpenAPI 秘钥
+#上一步AI画师的OpenAPI 秘钥
 OPENAI_KEY=fastgpt-z51pkjqm9nrk03a1rx2funoy
-#调用OpenAI的BaseUrl要换成FastGPT的
+#调用OpenAI的BaseUrl要换成AI画师的
 API_URL=https://api.fastgpt.in/api/openapi
 ```
 {% endhint %}
