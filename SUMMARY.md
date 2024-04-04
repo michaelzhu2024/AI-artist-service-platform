@@ -14,5 +14,6 @@
       * [☁️ 接入微信和企业微信](bang-zhu-wen-dang/kai-fa-zhi-nan/shi-yong-an-li/jie-ru-wei-xin-he-qi-ye-wei-xin.md)
       * [📈 接入飞书(社区文章)](bang-zhu-wen-dang/kai-fa-zhi-nan/shi-yong-an-li/jie-ru-fei-shu-she-qu-wen-zhang.md)
   * [🎁 增值服务](bang-zhu-wen-dang/zeng-zhi-fu-wu.md)
-* [🤝 其他](qi-ta/README.md)
-  * [📖 平台协议](qi-ta/ping-tai-xie-yi.md)
+* [🤝 使用协议](shi-yong-xie-yi/README.md)
+  * [📗 服务协议](shi-yong-xie-yi/fu-wu-xie-yi.md)
+  * [📕 隐私政策](shi-yong-xie-yi/yin-si-zheng-ce.md)
