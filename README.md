@@ -12,9 +12,9 @@ description: >-
 {% hint style="success" %}
 好消息，我们的站点受到cloudflare的保护！
 
-* [x] 浏览器完整性检查
+* [x] **浏览器完整性检查**
 * [x] 自动程序攻击模式
-* [x] 加快网站的访问速度
+* #### Under Attack 模式已激活
 {% endhint %}
 
 * [x] 无限制的高清大图生成
