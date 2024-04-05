@@ -11,3 +11,7 @@ description: 有关 AI画师 其他实践案例的更多信息
 {% content-ref url="jie-ru-wei-xin-he-qi-ye-wei-xin.md" %}
 [jie-ru-wei-xin-he-qi-ye-wei-xin.md](jie-ru-wei-xin-he-qi-ye-wei-xin.md)
 {% endcontent-ref %}
+
+{% content-ref url="jie-ru-fei-shu-she-qu-wen-zhang.md" %}
+[jie-ru-fei-shu-she-qu-wen-zhang.md](jie-ru-fei-shu-she-qu-wen-zhang.md)
+{% endcontent-ref %}
