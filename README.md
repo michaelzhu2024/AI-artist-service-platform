@@ -10,11 +10,11 @@ description: >-
 ## AI画师支持功能：
 
 {% hint style="success" %}
-<mark style="color:blue;">**好消息，AI画师站点受到cloudflare的保护！**</mark>
+<mark style="color:green;">**好消息，AI画师站点受到保护！**</mark>
 
-* [x] <mark style="color:green;">**浏览器完整性检查**</mark>
-* [x] <mark style="color:green;">**自动程序攻击模式**</mark>
-* #### <mark style="color:green;">Under Attack模式已激活</mark>
+* [x] **浏览器完整性检查**
+* [x] **自动程序攻击模式**
+* #### Under Attack模式
 {% endhint %}
 
 * [x] 无限制的高清大图生成
@@ -25,7 +25,3 @@ description: >-
 * [x] 支持 GPTs 多模态
 * [x] 支持即时语音识别(需要浏览器自带语音识别 ASR)&#x20;
 * [x] 开发者服务（支持OpenAPI接口和HTML接入，配开发指南）
-*
-
-
-
