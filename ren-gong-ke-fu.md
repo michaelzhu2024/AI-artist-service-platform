@@ -5,7 +5,7 @@ description: 无论是资费咨询还是技术支持，我们都竭尽全力为�
 # 🙋‍♂️ 人工客服
 
 {% hint style="warning" %}
-为了我们能够帮助到更多用户，建议您在寻求人工客服前先仔细阅读帮助文档，感谢您的理解与配合！
+<mark style="color:orange;">为了能够帮助到更多用户，建议您在寻求人工客服前先阅读帮助文档，感谢您的配合！</mark>
 {% endhint %}
 
 {% content-ref url="bang-zhu-wen-dang/" %}

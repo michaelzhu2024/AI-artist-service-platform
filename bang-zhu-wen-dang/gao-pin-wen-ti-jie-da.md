@@ -20,8 +20,8 @@ description: 结合用户的高频提问，你最想知道的都在这里！
 
 答：请参见“《下载权益》文件”。
 
-{% content-ref url="../shi-yong-xie-yi/xia-zai-quan-yi.md" %}
-[xia-zai-quan-yi.md](../shi-yong-xie-yi/xia-zai-quan-yi.md)
+{% content-ref url="../ping-tai-xie-yi/xia-zai-quan-yi.md" %}
+[xia-zai-quan-yi.md](../ping-tai-xie-yi/xia-zai-quan-yi.md)
 {% endcontent-ref %}
 
 **Q4：AI回复有误，图片生成有问题，如何反馈？**
