@@ -11,7 +11,7 @@ description: AI画师 在线使用
 <mark style="color:blue;">**AI画师使用地址2：**</mark>[<mark style="color:blue;">**https://ai.michaelzyz.asia**</mark>](https://ai.michaelzyz.asia/#/chat) **（备用）**
 
 {% hint style="warning" %}
-本网站开启密码访问，请联系客服获取内测密码或购买服务！
+所有网站均开启<mark style="color:red;">密码验证</mark>，请联系客服获取内测密码或购买服务！
 {% endhint %}
 
 ## 资费标准：
@@ -25,9 +25,9 @@ description: AI画师 在线使用
 备注：不提供退款服务，如遇维修可补充时长。
 
 {% hint style="danger" %}
-**严禁多人共享使用！严禁反向破解！**
+<mark style="color:red;">**严禁多人共享使用！严禁反向破解！严禁违法滥用！**</mark>
 
-后台查到数据异常即拨打电话或发送短信，严重者封号处理！
+<mark style="color:red;">后台查到数据异常将会立即封号处理。</mark>
 {% endhint %}
 
 ## 请联系客服购买AI画师！
