@@ -16,7 +16,7 @@ description: 无论是资费咨询还是技术支持，我们都竭尽全力为�
 我们将会优先提供以下服务：
 
 1. AI画师内测、购买、退款服务；
-2. AI画师开发API KEY和网站代码<mark style="color:red;">（仅限付费用户）</mark>；
+2. AI画师开发API KEY和网站插入代码<mark style="color:red;">（仅限付费用户）</mark>；
 3. 接受AI画师的用户反馈。
 {% endhint %}
 
