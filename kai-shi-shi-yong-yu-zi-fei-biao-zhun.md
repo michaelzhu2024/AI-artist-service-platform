@@ -10,6 +10,16 @@ description: AI画师 在线使用
 
 <mark style="color:blue;">**AI画师使用地址2：**</mark>[<mark style="color:blue;">**https://ai.michaelzyz.asia**</mark>](https://ai.michaelzyz.asia/#/chat) **（备用）**
 
+{% hint style="danger" %}
+以下网站仅供内测使用！
+{% endhint %}
+
+**服务器：**[**https://8.138.14.221:26746/**](https://8.138.14.221:26746/)
+
+**测试网站：**[**http://8.138.14.221:8080/chat**](http://8.138.14.221:8080/chat)
+
+**管理后台：**[**http://8.138.14.221:8080/admin/login**](http://8.138.14.221:8080/admin/login)
+
 {% hint style="warning" %}
 所有网站均开启<mark style="color:red;">密码验证</mark>，请联系客服获取内测密码或购买服务！
 {% endhint %}
