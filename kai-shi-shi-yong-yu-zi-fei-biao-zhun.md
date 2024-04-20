@@ -12,19 +12,6 @@ AI画师使用地址2<mark style="color:blue;">**：**</mark>[<mark style="color
 
 商用版测试网站：[**http://8.138.14.221:8080/chat**](http://8.138.14.221:8080/chat)
 
-{% hint style="danger" %}
-以下网站仅供管理员使用！
-{% endhint %}
-
-**宝塔面板登录：**
-
-1. 外网面板地址: https://8.138.14.221:26746/aa2ceae0&#x20;
-2. 内网面板地址: https://172.22.191.124:26746/aa2ceae0
-
-**商用版后台：**
-
-[**http://8.138.14.221:8080/admin/login**](http://8.138.14.221:8080/admin/login)
-
 {% hint style="warning" %}
 所有网站均开启<mark style="color:red;">密码验证</mark>，请联系客服获取内测密码或购买服务！
 {% endhint %}

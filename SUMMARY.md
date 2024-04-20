@@ -18,3 +18,4 @@
   * [📗 服务协议](ping-tai-xie-yi/fu-wu-xie-yi.md)
   * [📕 隐私政策](ping-tai-xie-yi/yin-si-zheng-ce.md)
   * [📙 下载权益](ping-tai-xie-yi/xia-zai-quan-yi.md)
+* [⚠️ 管控区](guan-kong-qu.md)
