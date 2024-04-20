@@ -18,10 +18,11 @@ AI画师使用地址2<mark style="color:blue;">**：**</mark>[<mark style="color
 
 **宝塔面板登录：**
 
-```
-外网面板地址: https://8.138.14.221:26746/aa2ceae0
+外网面板地址: https://8.138.14.221:26746/aa2ceae0&#x20;
+
 内网面板地址: https://172.22.191.124:26746/aa2ceae0
-```
+
+[https://8.138.14.221:26746](https://8.138.14.221:26746)；L79XEUGMyiJMAPdfF8IylDCwkFg9YyHM。
 
 **管理后台：**
 
