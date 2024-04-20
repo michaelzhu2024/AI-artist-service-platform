@@ -10,7 +10,7 @@ AI画师使用地址1<mark style="color:blue;">**：**</mark>[**https://ai.zyz.a
 
 AI画师使用地址2<mark style="color:blue;">**：**</mark>[<mark style="color:blue;">**https://ai.michaelzyz.asia**</mark>](https://ai.michaelzyz.asia/#/chat) **（备用）**
 
-商用测试网站：[**http://8.138.14.221:8080/chat**](http://8.138.14.221:8080/chat)
+商用版测试网站：[**http://8.138.14.221:8080/chat**](http://8.138.14.221:8080/chat)
 
 {% hint style="danger" %}
 以下网站仅供管理员使用！
@@ -18,13 +18,10 @@ AI画师使用地址2<mark style="color:blue;">**：**</mark>[<mark style="color
 
 **宝塔面板登录：**
 
-外网面板地址: https://8.138.14.221:26746/aa2ceae0&#x20;
+1. 外网面板地址: https://8.138.14.221:26746/aa2ceae0&#x20;
+2. 内网面板地址: https://172.22.191.124:26746/aa2ceae0
 
-内网面板地址: https://172.22.191.124:26746/aa2ceae0
-
-[https://8.138.14.221:26746](https://8.138.14.221:26746)；L79XEUGMyiJMAPdfF8IylDCwkFg9YyHM。
-
-**管理后台：**
+**商用版后台：**
 
 [**http://8.138.14.221:8080/admin/login**](http://8.138.14.221:8080/admin/login)
 
