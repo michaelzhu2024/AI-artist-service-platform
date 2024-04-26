@@ -10,7 +10,18 @@ AI画师使用地址1<mark style="color:blue;">**：**</mark>[**https://ai.zyz.a
 
 AI画师使用地址2<mark style="color:blue;">**：**</mark>[<mark style="color:blue;">**https://ai.michaelzyz.asia**</mark>](https://ai.michaelzyz.asia/#/chat) **（备用）**
 
-商用版测试网站：[**http://8.138.14.221:8080/chat**](http://8.138.14.221:8080/chat)
+商用版测试网站：[**http://8.138.14.221:8080/chat**](http://8.138.14.221:8080/chat)**（故障，修复中）**
+
+{% hint style="success" %}
+远卓云盘 上线了！
+
+登录：[http://8.138.14.221:5244/@login](http://8.138.14.221:5244/@login)
+
+* [x] 游客登录
+* [x] 在线观看存储视频
+* [x] 一键轻松下载
+* [x] 域名绑定（未完成备案）
+{% endhint %}
 
 {% hint style="warning" %}
 所有网站均开启<mark style="color:red;">密码验证</mark>，请联系客服获取内测密码或购买服务！
